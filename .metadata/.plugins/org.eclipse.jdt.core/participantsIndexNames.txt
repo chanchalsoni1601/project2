@@ -1,0 +1,9 @@
+INDEX VERSION 1.134
+C:\Users\Admin\eclipse-workspace\Project2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3714498423.index
+\Project2\src\main\java
+C:\Users\Admin\eclipse-workspace\Project2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2398938355.index
+\Project1\src\main\java
+C:\Users\Admin\eclipse-workspace\Project2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2752940622.index
+\project3\src\main\java
+C:\Users\Admin\eclipse-workspace\Project2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3295996359.index
+\Project3\src\main\java

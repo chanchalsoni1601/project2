@@ -1,0 +1,11 @@
+127.0.0.1 - - [14/Dec/2023:13:31:02 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [14/Dec/2023:13:31:05 +0530] "GET /Project2/ HTTP/1.1" 200 2784
+0:0:0:0:0:0:0:1 - - [14/Dec/2023:13:31:06 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [14/Dec/2023:13:31:08 +0530] "GET /Project2/createCustomer.jsp HTTP/1.1" 200 2829
+0:0:0:0:0:0:0:1 - - [14/Dec/2023:13:31:24 +0530] "POST /Project2/register.jsp HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [14/Dec/2023:13:31:24 +0530] "GET /Project2/index.jsp HTTP/1.1" 200 3131
+0:0:0:0:0:0:0:1 - - [14/Dec/2023:13:31:26 +0530] "GET /Project2/deleteCustomer.jsp?uid=25 HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [14/Dec/2023:13:31:26 +0530] "GET /Project2/index.jsp HTTP/1.1" 200 2784
+0:0:0:0:0:0:0:1 - - [14/Dec/2023:13:31:28 +0530] "GET /Project2/editCustomer.jsp?uid=24 HTTP/1.1" 200 2954
+0:0:0:0:0:0:0:1 - - [14/Dec/2023:13:31:42 +0530] "POST /Project2/updateCustomer.jsp HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [14/Dec/2023:13:31:42 +0530] "GET /Project2/index.jsp HTTP/1.1" 200 2802
